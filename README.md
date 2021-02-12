@@ -1,2 +1,2 @@
 # QA-auto-test-course
-stepik 123
+Пара моих работ со stepik.
