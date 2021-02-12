@@ -1,2 +1,2 @@
 # QA-auto-test-course
-stepik
+stepik 123
